@@ -1,0 +1,16 @@
+﻿Build started 27/01/2015 15:48:01.
+     1>Project "c:\Users\Eoin\documents\visual studio 2013\Projects\Lab15\Lab15\Lab15.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lab15.cpp
+         Lab15.cpp
+     1>c:\users\eoin\documents\visual studio 2013\projects\lab15\lab15\lab15.cpp(105): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\eoin\documents\visual studio 2013\projects\lab15\lab15\lab15.cpp(112): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\eoin\documents\visual studio 2013\Projects\Lab15\Debug\Lab15.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\eoin\documents\visual studio 2013\Projects\Lab15\Debug\Lab15.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\eoin\documents\visual studio 2013\Projects\Lab15\Debug\Lab15.lib" /MACHINE:X86 Debug\Lab15.obj
+         Debug\stdafx.obj
+         Lab15.vcxproj -> c:\users\eoin\documents\visual studio 2013\Projects\Lab15\Debug\Lab15.exe
+     1>Done Building Project "c:\Users\Eoin\documents\visual studio 2013\Projects\Lab15\Lab15\Lab15.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.51

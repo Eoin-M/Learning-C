@@ -1,0 +1,12 @@
+Sample Planned Vehicle Maintenance Schedule 2012													
+Vehicle Type	Registration No.	January	February	March	April	May 	June	July	August	September	October	November	December
+VAN	12G1001	-	-	S	-	I	S	-	-	S	-	-	S
+VAN	13G12345	I	-	S	-	-	S	-	-	S	I	-	S
+TRUCK	10G4568	T	I	-	S	C	I	-	S	I	-	S	I
+TRUCK	09G90569	-	-	-	T	C	-	I	-	-	S	-	I
+END													
+	Key	S	Service Due										
+		I	Inspection Service Due										
+		C	Commercial Vehicle Test Due										
+		T	Two-year tacho Check Due										
+		-	no service this month										

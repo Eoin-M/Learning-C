@@ -1,0 +1,15 @@
+ID	Firstname	Lastname	English	Maths	French	Philosophy
+101	Kristina	Chung	D	B	B	A
+129	Wayne	Connolly	C	E	D	D
+115	Julia	Desai	E	B	A	C
+119	Kristine	Dougherty	E	E	B	A
+125	Claire	Gallagher	B	E	A	D
+132	Gretchen	Goldstein	B	D	C	A
+118	Jean	Griffin	B	D	D	A
+139	Erica	Hall	A	A	A	D
+107	Elsie	Hamilton	B	D	A	A
+130	Stephanie	Hawkins	C	B	D	E
+104	Gretchen	Hill	F	A	A	A
+134	Jerome	Johnston	C	E	C	A
+117	Neal	Lawrence	A	A	A	A
+121	Alex	May	C	E	A	C
